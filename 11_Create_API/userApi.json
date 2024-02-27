@@ -1,0 +1,444 @@
+[
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net"
+      }
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "address": {
+        "street": "Sunset Boulevard",
+        "suite": "Apt. 123",
+        "city": "Cityville",
+        "zipcode": "54321-6789",
+        "geo": {
+          "lat": "12.3456",
+          "lng": "-45.6789"
+        }
+      },
+      "phone": "555-1234",
+      "website": "johndoe.com",
+      "company": {
+        "name": "Tech Innovators",
+        "catchPhrase": "Revolutionizing the future",
+        "bs": "Innovate, Create, Succeed"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alice.j@example.com",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Apt. 789",
+        "city": "Springfield",
+        "zipcode": "54321-1234",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "phone": "555-5678",
+      "website": "alicejohnson.com",
+      "company": {
+        "name": "Tech Solutions",
+        "catchPhrase": "Innovate for a better tomorrow"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bob Smith",
+      "username": "bobsmith",
+      "email": "bob.smith@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 246",
+        "city": "Greenwood",
+        "zipcode": "98765-4321",
+        "geo": {
+          "lat": "37.7749",
+          "lng": "-122.4194"
+        }
+      },
+      "phone": "555-4321",
+      "website": "bobsmith.com",
+      "company": {
+        "name": "Innovate Solutions",
+        "catchPhrase": "Leading the way in technology"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Eva Wilson",
+      "username": "evaw",
+      "email": "eva.w@example.com",
+      "address": {
+        "street": "Oak Street",
+        "suite": "Apt. 789",
+        "city": "Cityburg",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "phone": "555-8765",
+      "website": "evawilson.com",
+      "company": {
+        "name": "Tech Innovations",
+        "catchPhrase": "Building the future together"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Charlie Brown",
+      "username": "charlieb",
+      "email": "charlie.b@example.com",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Apt. 567",
+        "city": "Townsville",
+        "zipcode": "54321-5678",
+        "geo": {
+          "lat": "41.8781",
+          "lng": "-87.6298"
+        }
+      },
+      "phone": "555-7890",
+      "website": "charliebrown.com",
+      "company": {
+        "name": "Innovative Tech",
+        "catchPhrase": "Transforming ideas into reality"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Grace Miller",
+      "username": "gracem",
+      "email": "grace.m@example.com",
+      "address": {
+        "street": "Sunset Boulevard",
+        "suite": "Apt. 987",
+        "city": "Citytown",
+        "zipcode": "67890-1234",
+        "geo": {
+          "lat": "37.7749",
+          "lng": "-122.4194"
+        }
+      },
+      "phone": "555-3456",
+      "website": "gracemiller.com",
+      "company": {
+        "name": "Future Innovations",
+        "catchPhrase": "Creating a better tomorrow"
+      }
+    },
+    {
+      "id": 8,
+      "name": "David White",
+      "username": "davidw",
+      "email": "david.w@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 246",
+        "city": "Greenville",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "phone": "555-6789",
+      "website": "davidwhite.com",
+      "company": {
+        "name": "Innovate Tech Solutions",
+        "catchPhrase": "Innovate, Lead, Succeed"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Emma Turner",
+      "username": "emmat",
+      "email": "emma.t@example.com",
+      "address": {
+        "street": "Oak Street",
+        "suite": "Apt. 345",
+        "city": "Cityville",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "phone": "555-2345",
+      "website": "emmaturner.com",
+      "company": {
+        "name": "Tech Leaders",
+        "catchPhrase": "Leading the way in technology"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Frank Adams",
+      "username": "franka",
+      "email": "frank.a@example.com",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Apt. 123",
+        "city": "Springfield",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "41.8781",
+          "lng": "-87.6298"
+        }
+      },
+      "phone": "555-1234",
+      "website": "frankadams.com",
+      "company": {
+        "name": "Future Tech",
+        "catchPhrase": "Building a future of possibilities"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Helen Harris",
+      "username": "helenh",
+      "email": "helen.h@example.com",
+      "address": {
+        "street": "Sunset Boulevard",
+        "suite": "Apt. 567",
+        "city": "Cityburg",
+        "zipcode": "78901-2345",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "phone": "555-5678",
+      "website": "helenharris.com",
+      "company": {
+        "name": "Innovate Solutions",
+        "catchPhrase": "Inspiring innovation for a better world"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Ivan Martinez",
+      "username": "ivanm",
+      "email": "ivan.m@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 789",
+        "city": "Townsville",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "37.7749",
+          "lng": "-122.4194"
+        }
+      },
+      "phone": "555-7890",
+      "website": "ivanmartinez.com",
+      "company": {
+        "name": "Tech Pioneers",
+        "catchPhrase": "Pioneering the future of technology"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Jackie Turner",
+      "username": "jackiet",
+      "email": "jackie.t@example.com",
+      "address": {
+        "street": "Oak Street",
+        "suite": "Apt. 123",
+        "city": "Greenville",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "phone": "555-2345",
+      "website": "jackieturner.com",
+      "company": {
+        "name": "Future Innovators",
+        "catchPhrase": "Innovate today, shape tomorrow"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Kevin Brown",
+      "username": "kevinb",
+      "email": "kevin.b@example.com",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Apt. 567",
+        "city": "Citytown",
+        "zipcode": "78901-2345",
+        "geo": {
+          "lat": "41.8781",
+          "lng": "-87.6298"
+        }
+      },
+      "phone": "555-5678",
+      "website": "kevinbrown.com",
+      "company": {
+        "name": "Tech Leaders",
+        "catchPhrase": "Leading the way in technology"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Laura White",
+      "username": "lauraw",
+      "email": "laura.w@example.com",
+      "address": {
+        "street": "Sunset Boulevard",
+        "suite": "Apt. 789",
+        "city": "Springfield",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "phone": "555-7890",
+      "website": "laurawhite.com",
+      "company": {
+        "name": "Innovate Tech Solutions",
+        "catchPhrase": "Innovate, Lead, Succeed"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Michael Adams",
+      "username": "michaela",
+      "email": "michael.a@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 123",
+        "city": "Cityburg",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "phone": "555-2345",
+      "website": "michaeladams.com",
+      "company": {
+        "name": "Future Tech",
+        "catchPhrase": "Building a future of possibilities"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Nancy Harris",
+      "username": "nancyh",
+      "email": "nancy.h@example.com",
+      "address": {
+        "street": "Oak Street",
+        "suite": "Apt. 567",
+        "city": "Townsville",
+        "zipcode": "78901-2345",
+        "geo": {
+          "lat": "37.7749",
+          "lng": "-122.4194"
+        }
+      },
+      "phone": "555-5678",
+      "website": "nancyharris.com",
+      "company": {
+        "name": "Innovate Solutions",
+        "catchPhrase": "Inspiring innovation for a better world"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Oliver Turner",
+      "username": "olivert",
+      "email": "oliver.t@example.com",
+      "address": {
+        "street": "Maple Avenue",
+        "suite": "Apt. 789",
+        "city": "Cityville",
+        "zipcode": "34567-8901",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
+      "phone": "555-7890",
+      "website": "oliverturner.com",
+      "company": {
+        "name": "Tech Pioneers",
+        "catchPhrase": "Pioneering the future of technology"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Paula Martinez",
+      "username": "paulam",
+      "email": "paula.m@example.com",
+      "address": {
+        "street": "Sunset Boulevard",
+        "suite": "Apt. 123",
+        "city": "Greenville",
+        "zipcode": "56789-0123",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
+      "phone": "555-2345",
+      "website": "paulamartinez.com",
+      "company": {
+        "name": "Future Innovators",
+        "catchPhrase": "Innovate today, shape tomorrow"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Quincy Brown",
+      "username": "quincyb",
+      "email": "quincy.b@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 567",
+        "city": "Citytown",
+        "zipcode": "78901-2345",
+        "geo": {
+          "lat": "41.8781",
+          "lng": "-87.6298"
+        }
+      },
+      "phone": "555-5678",
+      "website": "quincybrown.com",
+      "company": {
+        "name": "Tech Leaders",
+        "catchPhrase": "Leading the way in technology"
+      }
+    }
+  ]
+  
